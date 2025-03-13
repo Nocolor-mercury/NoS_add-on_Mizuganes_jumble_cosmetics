@@ -1,0 +1,451 @@
+{
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "44db5595d30687d28aa5c8a3accb0458",
+				"Address" : "dWUcaH4uc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "8cfcdd5f632bac38aff79b6eaa3a8f30",
+				"Address" : "dWUcaH4uc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "8bfbdd9e2cbaf8d1da32e1244aaf2d04",
+				"Address" : "dWUcaH4uc_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ヘタなお洒落",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "b1d1918591bf49ede418e3d6fe2556cc",
+				"Address" : "Z6giqnKNb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "44161befc3d2ef9641ba928af5c2df71",
+				"Address" : "Z6giqnKNb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "2f80d1fdd73520e46ae679815cfb0f4b",
+				"Address" : "Z6giqnKNb_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "みーんみんみんみ～ん",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "f0b29fa4b29b0d2a6181fcf5603d6e36",
+				"Address" : "dvC2XuVZ_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "00ac405f068502837e41c7bb0a91c604",
+				"Address" : "dvC2XuVZ_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "c2257374687f989049d143190847f75e",
+				"Address" : "dvC2XuVZ_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "星の被り物",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "a54060d2fc88a1b30e0e0b421462edc5",
+				"Address" : "efReEWGKb_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "b825966b0add66f3569998f4a3efcb90",
+				"Address" : "efReEWGKb_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "まぁ、お茶でも飲んで",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "673308e45bc1e6405831f3ae37caa876",
+				"Address" : "0LRB8n5R_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b22deb477a07af0c2c6a6adb674b0e88",
+				"Address" : "0LRB8n5R_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "fcc0eeb5734a6d6cd9554a620600dced",
+				"Address" : "0LRB8n5R_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "クルー・トーテム・ポール",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "f7e0b69088b4d5ef08e3bb2150194192",
+				"Address" : "1NlKuYIt_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "37cea292efa7a8946290fe981e9d98a5",
+				"Address" : "1NlKuYIt_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "7fecc65a4528f688c4422470393bb8a8",
+				"Address" : "1NlKuYIt_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "機械的な帽子と髪",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "ffd0e87c9cc5d1dd846dbf3155c58b77",
+				"Address" : "slAvNchq_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "59060ebf7bd01ad7c6f92ec9dab45ee7",
+				"Address" : "slAvNchq_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "08ff0d4bff0bf2346c74a1e2824032b8",
+				"Address" : "slAvNchq_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "bed_in",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		}
+	],
+	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "6eafcc6caced3b8d43ea3afd6a7366e2",
+				"Address" : "XoE2Oqws_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "9b1f7153ada27e5ce8298700ee5df149",
+				"Address" : "XoE2Oqws_Preview.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "78ee4d97dd6706f40ed73e4f03b4c591",
+				"Address" : "XoE2Oqws_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "フルーツ犬",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "e2663dea9775690ac758d1c756cd749e",
+				"Address" : "SMjy_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "30ce034c8c44c6ad87d82f1c5c8dd97e",
+				"Address" : "SMjy_Preview.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "」」",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "93ddce614fdfcd39faae6c1d9b91302d",
+				"Address" : "jVm12e_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "fc2e96675b4f20ad158d862083621ae7",
+				"Address" : "jVm12e_Preview.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "倍ザー",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "13fd94ca809d0ce4552502050baafc0a",
+				"Address" : "N7uqI4Juc_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "d6f706e305daed81af1daa0897d44596",
+				"Address" : "N7uqI4Juc_Preview.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "ff0ca0152a9fc2963a1cc8f9910f27c4",
+				"Address" : "N7uqI4Juc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "強固なバイザー",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "d90985eec389dc323fc7987d68408436",
+				"Address" : "NXDpP9K_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "b93bba1fd9537b23d1e2e10bb5c1c2ca",
+				"Address" : "NXDpP9K_Preview.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "偽ベント",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "1d60d99da68d655528bfdf4679a27b12",
+				"Address" : "lFGy_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "59061430a9938d3c0980e821ca5732d1",
+				"Address" : "lFGy_Preview.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ドア",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "d1b8a01a51517d272960c228ac4a2626",
+				"Address" : "uG5pwYwE_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "9331f2e1ba92454a58633d72150ed92e",
+				"Address" : "uG5pwYwE_Preview.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "螺旋バイザー",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "637852499c462a036c7b2b9d718a895b",
+				"Address" : "d78lg2mqb_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "cc0a7b1e6906fd23015f31869dbf8625",
+				"Address" : "d78lg2mqb_Preview.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d2021c2191057fb14bbf68a34e45f718",
+				"Address" : "d78lg2mqb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "機械的なランプ",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "f0e054d6812f3c891d99cd625def16ba",
+				"Address" : "UBCbFd5N_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "09b8f35b9100e380c0a33eafd33c4781",
+				"Address" : "UBCbFd5N_Preview.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "スワイプカードマン",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "9316df56dcfd6ada731e86762aaee102",
+				"Address" : "Gey7ezCT_Main.png",
+				"ExIsFront" : False,
+				"Length" : 10
+			},
+			"Preview" : {
+				"Hash" : "9316df56dcfd6ada731e86762aaee102",
+				"Address" : "Gey7ezCT_Preview.png",
+				"ExIsFront" : False,
+				"Length" : 10
+			},
+			"Climb" : {
+				"Hash" : "9316df56dcfd6ada731e86762aaee102",
+				"Address" : "Gey7ezCT_Climb.png",
+				"ExIsFront" : False,
+				"Length" : 10
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 4,
+			"Name" : "しょうめつこう",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		}
+	],
+	"Nameplates" : [
+		{
+			"Plate" : {
+				"Hash" : "77a57b9cd05d587be5456703f5f54739",
+				"Address" : "Bhf5sMckc_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "とまとビーム！",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Plate" : {
+				"Hash" : "9087c5930dcaf0b47aa2e5892e11bb0c",
+				"Address" : "UILfQ7BZb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "アップるオレンジ",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Plate" : {
+				"Hash" : "4f521b2c6f68a95c708f645863553659",
+				"Address" : "78AG1GJcb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "大きなベント",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		}
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "668",
+			"Format" : "Mizugane's jumble cosmetics",
+			"Priority" : 1
+		}
+	]
+}
