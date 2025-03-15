@@ -29,8 +29,13 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "b1d1918591bf49ede418e3d6fe2556cc",
+				"Hash" : "7fcf1c6fa19c24ff4df8faf5053bcabb",
 				"Address" : "Z6giqnKNb_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "44161befc3d2ef9641ba928af5c2df71",
+				"Address" : "Z6giqnKNb_Back.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
@@ -175,6 +180,58 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "bed_in",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "71a0e8b9b06a372e39e9550d9665b200",
+				"Address" : "3K3L3i_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "420c70a7a863dbf9cacd05471bdae820",
+				"Address" : "3K3L3i_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "e2e746e0e924e7f24d4567205eda4395",
+				"Address" : "3K3L3i_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "釣り人",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "7397ba2fb6774d1ea7f38cdfa77d15b0",
+				"Address" : "tO3Imi_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e0bf150ae36f06aa96d5e4fc692e5479",
+				"Address" : "tO3Imi_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "35408ad09ede30d578536a30d1274e33",
+				"Address" : "tO3Imi_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "虫取り",
 			"Author" : "汞_無透",
 			"Package" : "668"
 		}
@@ -402,6 +459,81 @@
 			"Name" : "しょうめつこう",
 			"Author" : "汞_無透",
 			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "f23f390e148f2a6e727692131608a335",
+				"Address" : "f4hAxnWib_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "2efae0e6eac0d269951dd71125392163",
+				"Address" : "f4hAxnWib_Preview.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f6fb5c128b9eec4ddaa59d3c7e8cc530",
+				"Address" : "f4hAxnWib_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ノリノリなバイザー",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "b1443df453286772123793ff3f844f39",
+				"Address" : "mZb3lnZnc_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "d77aa2cfdf92045cb9eb3f84181e50e9",
+				"Address" : "mZb3lnZnc_Back.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "2c3d8e4ac90c3e75e548126c82543584",
+				"Address" : "mZb3lnZnc_Preview.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "0853cecb010aafd17119cfa0ece477c7",
+				"Address" : "mZb3lnZnc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "可愛らしいコウモリ",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Main" : {
+				"Hash" : "809aa4310bf41493d046a1afa4522a1c",
+				"Address" : "3PQE2e_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "8cd5933860938cf05fdbbba45022b0ff",
+				"Address" : "3PQE2e_Preview.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "信号機",
+			"Author" : "汞_無透",
+			"Package" : "668"
 		}
 	],
 	"Nameplates" : [
@@ -435,6 +567,28 @@
 			},
 			"AdaptiveInFront" : True,
 			"Name" : "大きなベント",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Plate" : {
+				"Hash" : "c75b5e025613cff9507fd0155389399d",
+				"Address" : "69rLgHgob_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "コウモリ座流星群",
+			"Author" : "汞_無透",
+			"Package" : "668"
+		},
+		{
+			"Plate" : {
+				"Hash" : "844e615d00ad351863ec512af3d08748",
+				"Address" : "udu3_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "混雑",
 			"Author" : "汞_無透",
 			"Package" : "668"
 		}
